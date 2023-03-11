@@ -96,7 +96,7 @@ h4{
    height: 50px;
 }
 .contact-me{
-    width: 40%;
+    width: 50%;
     margin: 20px auto;
 }
 .bottom-container{
@@ -104,7 +104,7 @@ h4{
     padding: 10px 0 ;
 }
 a{
-    color: #5639e2;
+    color: #3f1ee9;
     font-family: 'Montserrat', sans-serif;
     margin: 15px 20px;
     text-decoration:none;
@@ -114,10 +114,12 @@ a:hover{
 }
 p{
     font-family: 'Montserrat', sans-serif; 
+    padding: 5px 0;
 }
 .copyright{
     color: #5639e2;
-    font-size: .8rem;
+    font-size: 14.8px;
+    height: 8px;
     padding:  0;
 }
 .btn {
@@ -133,7 +135,7 @@ p{
   font-family: 'Montserrat', sans-serif;
   color: #131111;
   font-size: 20px;
-  padding: 10px 20px 10px 59px;
+  padding: 10px 20px 10px 10px;
   text-decoration: none;
 }
 
@@ -147,11 +149,11 @@ p{
   text-decoration: none;
 }         
 .msg{
-    position: relative;
-    left: 69px;
-    top:8px;
-    width: 5.5%;
+   padding: 10px ;
+   position: relative;
+   top: 14.5px;
+    width: 25px;
 }
 .msg:hover{
-    background: #af9fff;
+    background: #e6e4f1;
 }
