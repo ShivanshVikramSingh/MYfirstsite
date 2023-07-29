@@ -1,2 +1,2 @@
 # MYfirstsite
-made with css/html only
+The site is hosted on : https://shivanshvikramsingh.github.io/PersonalSite/
